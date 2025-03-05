@@ -3,4 +3,4 @@ function Colour(color)
 	vim.cmd.colorscheme(color)
 end
 
-Colour("kanagawa-paper")
+Colour("catppuccin-mocha")
